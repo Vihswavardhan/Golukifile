@@ -1,0 +1,2 @@
+# Golukifile
+Random
